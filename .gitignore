@@ -20,3 +20,8 @@
 *.idb
 *.ilk
 *.vcxproj
+*.vcxproj
+VS.2015/.vs/Barony/v15/.suo
+VS.2015/Barony/Barony.vcxproj
+VS.2015/Barony/Barony.vcxproj
+VS.2015/editor/editor.vcxproj
